@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+	<ShortName>searx.schnuffle.de</ShortName>
+	<Description>a privacy-respecting, hackable metasearch engine</Description>
+	<InputEncoding>UTF-8</InputEncoding>
+	<Image>https://searx.schnuffle.de/static/themes/oscar/img/favicon.png</Image>
+	<LongName>schnuffle searx metasearch</LongName>
+	<Url type="text/html" method="post" template="https://searx.schnuffle.de/"><Param name="q" value="{searchTerms}"/></Url>
+</OpenSearchDescription>
