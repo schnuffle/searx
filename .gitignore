@@ -9,11 +9,13 @@ robot_output.xml
 robot_report.html
 test_basic/
 setup.cfg
-
+.bash*
 *.pyc
 */*.pyc
 *~
-
+.cache/
+.profile
+.viminfo
 node_modules/
 
 .tx/
