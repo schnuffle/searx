@@ -23,4 +23,5 @@ node_modules/
 .profile
 .viminfo
 .gitconfig
+searx/settings.yml
 .tx/
