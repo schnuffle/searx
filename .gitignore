@@ -15,5 +15,9 @@ setup.cfg
 *~
 
 node_modules/
-
+.bash_history
+.bashrc
+.cache/
+.profile
+.viminfo
 .tx/
